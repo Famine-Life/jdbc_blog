@@ -22,7 +22,7 @@
 </p>
 
 <p class="center">
-    <img src="screenshot/posts_wirte.png" width="81%"/>
+    <img src="screenshot/posts_write.png" width="81%"/>
 </p>
 
 <p class="center">
