@@ -1,4 +1,4 @@
-﻿# **jdbc_mysql**这是servlet学习时的建立个人博客想法
+﻿## **jdbc_mysql**这是servlet学习时的建立个人博客想法
 
 
 
