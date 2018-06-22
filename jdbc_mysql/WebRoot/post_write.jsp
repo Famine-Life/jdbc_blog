@@ -31,8 +31,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                                                       好害怕、终究要变成和他们一样
                     </span>
             </ul>
-            <button type="button" class="btn btn-dark">Blog</button>
-            <button type="button" class="btn btn-dark">GitHub</button>
+            <button type="button" class="btn btn-dark onclick="location.href='index.jsp'">Blog</button>
+            <button type="button" class="btn btn-dark onclick="location.href='https://github.com/Famine-Life'">GitHub</button>
         </div>
     </nav>
     <div class="container">
