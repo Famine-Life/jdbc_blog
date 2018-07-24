@@ -6,8 +6,9 @@
 以及网上找来的markdown.js插件(很弱)
 
 哦对了，我还用了前端框架**bootstrap**，，哈哈，用bootstrap的jsp，简直丧心病狂~
+首页仿自[阮一峰](http://www.ruanyifeng.com/home.html){_target}，文章列表和详情页仿自[王银](http://www.yinwang.org){_target}
 
-**很多东西未完善(比如，filter,listener等都没写进去)，已经搁置**
+**很多东西未完善(比如，filter,listener等都没放进去)，已经搁置**
 
 
 
